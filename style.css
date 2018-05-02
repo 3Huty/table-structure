@@ -13,9 +13,6 @@ td, th {
   border: 1px solid rgb(190,190,190);
   padding: 10px 20px;
 }
-tr, th:nth-child(3){
-    border-color: darkslategray;
-}
 
 th {
   background-color: rgb(235,235,235);
@@ -36,3 +33,7 @@ tr:nth-child(odd) td {
 caption {
   padding: 10px;
 }
+
+.callgroup {
+    border: 2px solid black;
+    }
